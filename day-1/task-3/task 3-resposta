@@ -6,7 +6,7 @@ def inicio():
   hello()
 
 def hello():
-  valors = ["sol","chuva","vento","noite","lua"]
+  valores = ["sol","chuva","vento","noite","lua"]
   print("Oi")
   loop(valores)
   wFile('/dev/null')
